@@ -2,4 +2,4 @@
 
 - 🔭 Developer Front End
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathankleinee&theme=dark&show_icons=true)
+![jonathankleinee GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathankleinee&theme=dark&show_icons=true)
