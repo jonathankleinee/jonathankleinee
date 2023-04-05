@@ -2,7 +2,7 @@
 
 - 🔭 Developer Front End
 
-![jonathankleinee GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathankleinee&theme=dark&show_icons=true)
+[![jonathankleinee GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jonathankleinee&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jonathankleinee/github-readme-stats#gh-dark-mode-only)
 
 <div style="display: flex"><br>
 <img align="center" alt="Kleine-HTML![logo](https://user-images.githubusercontent.com/104872518/230153851-d00e339d-49da-49e2-8481-bbdd59b8afdc.png)
