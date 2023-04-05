@@ -18,5 +18,4 @@
    target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  <img align="center" alt="Kleine-img" height="300" style="border-radius:50px;"  src=https://user-images.githubusercontent.com/104872518/230150724-f0794736-b4b3-4f8a-9b09-5f1973647e27.png>
-  </div>
+
